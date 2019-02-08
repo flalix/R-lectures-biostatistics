@@ -1,0 +1,48 @@
+num	netobj_from	objtype_from	netobj_to	objtype_to	effect	mechanism
+1	NIK(MAP3K14)	Protein kinase	IKK-beta	Protein kinase	Activation	Phosphorylation
+2	IKK-alpha	Protein kinase	I-kB	Generic binding protein	Inhibition	Phosphorylation
+3	TNF-R1	Generic receptor	p38 MAPK	Protein kinase	Activation	Unspecified
+4	TNF-R1	Generic receptor	VCAM1	Generic receptor	Activation	Influence on expression
+5	IKK-gamma	Generic binding protein	IKK-alpha	Protein kinase	Activation	Binding
+6	I-kB	Generic binding protein	RelA (p65 NF-kB subunit)	Transcription factor	Inhibition	Binding
+7	TAK1(MAP3K7)	Protein kinase	IKK-alpha	Protein kinase	Activation	Binding
+8	MEK1/2	Protein kinase	ERK1/2	Protein kinase	Activation	Phosphorylation
+9	IKK-gamma	Generic binding protein	IKK-beta	Protein kinase	Activation	Binding
+10	I-kB	Generic binding protein	NF-kB1 (p50)	Transcription factor	Inhibition	Binding
+11	c-Raf-1	Protein kinase	MEK1/2	Protein kinase	Activation	Phosphorylation
+12	ALDR	Generic enzyme	Glutathione-HNE + NAD(P)H = NADP(+) + 1,4-Dihydroxy-3-(GSH)-nonane	Reaction	Activation	Catalysis
+13	PGE2R2	GPCR	G-protein alpha-s	G-alpha	Activation	Transformation
+14	MADD	Regulators (GDI, GAP, GEF)	GRB2	Generic binding protein	Activation	Binding
+15	TRAF2	Generic binding protein	TAK1(MAP3K7)	Protein kinase	Activation	Ubiquitination
+16	G-protein alpha-s	G-alpha	Axin	Generic binding protein	Inhibition	Binding
+17	VCAM1	Generic receptor	alpha-4/beta-1 integrin	Generic receptor	Activation	Binding
+18	H-Ras	RAS - superfamily	c-Raf-1	Protein kinase	Activation	Binding
+19	TRAF2	Generic binding protein	NIK(MAP3K14)	Protein kinase	Activation	Binding
+20	GRB2	Generic binding protein	SOS	Regulators (GDI, GAP, GEF)	Activation	Binding
+21	SOS	Regulators (GDI, GAP, GEF)	H-Ras	RAS - superfamily	Activation	Transformation
+22	TRADD	Generic binding protein	TRAF2	Generic binding protein	Activation	Binding
+23	TRADD	Generic binding protein	RIPK1	Protein kinase	Activation	Binding
+24	TNF-R1	Generic receptor	TRADD	Generic binding protein	Activation	Binding
+25	TAK1(MAP3K7)	Protein kinase	IKK-beta	Protein kinase	Activation	Phosphorylation
+26	Axin	Generic binding protein	Beta-catenin	Generic binding protein	Inhibition	Binding
+27	TNF-alpha	Receptor ligand	TNF-R1	Generic receptor	Activation	Binding
+28	TNF-R1	Generic receptor	MADD	Regulators (GDI, GAP, GEF)	Activation	Binding
+29	TNF-R1	Generic receptor	GRB2	Generic binding protein	Activation	Binding
+30	TRAF2	Generic binding protein	RIPK1	Protein kinase	Activation	Binding
+31	NIK(MAP3K14)	Protein kinase	IKK-alpha	Protein kinase	Activation	Phosphorylation
+32	NF-kB	Transcription factor	c-IAP2	Generic binding protein	Activation	Transcription regulation
+33	RIPK1	Protein kinase	IKK-gamma	Generic binding protein	Activation	Binding
+34	NF-kB	Transcription factor	TRAF1	Generic binding protein	Activation	Transcription regulation
+35	NF-kB	Transcription factor	TRAF2	Generic binding protein	Activation	Transcription regulation
+36	NF-kB	Transcription factor	ICAM1	Generic receptor	Activation	Transcription regulation
+37	NF-kB	Transcription factor	COX-2 (PTGS2)	Generic enzyme	Activation	Transcription regulation
+38	SOS	Regulators (GDI, GAP, GEF)	K-RAS	RAS - superfamily	Activation	Transformation
+39	K-RAS	RAS - superfamily	c-Raf-1	Protein kinase	Activation	Binding
+40	NF-kB	Transcription factor	IP10	Receptor ligand	Activation	Transcription regulation
+41	NF-kB	Transcription factor	IL-6	Receptor ligand	Activation	Transcription regulation
+42	NF-kB	Transcription factor	GRO-1	Receptor ligand	Activation	Transcription regulation
+43	NF-kB	Transcription factor	IL-8	Receptor ligand	Activation	Transcription regulation
+44	NF-kB	Transcription factor	CCL2	Receptor ligand	Activation	Transcription regulation
+45	ABCC4	Generic channel	<intracellular> Prostaglandin E2 = <extracellular region> Prostaglandin E2	Reaction	Activation	Transport
+46	IKK-beta	Protein kinase	I-kB	Generic binding protein	Inhibition	Phosphorylation
+47	Prostaglandin E2 extracellular region	Compound	PGE2R2	GPCR	Activation	Binding
